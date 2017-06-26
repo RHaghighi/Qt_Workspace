@@ -1,0 +1,1 @@
+/home/reza/Qt_Workspace/Authomatic_Edge_Selection/build/CMakeFiles/EdgeSelection.dir

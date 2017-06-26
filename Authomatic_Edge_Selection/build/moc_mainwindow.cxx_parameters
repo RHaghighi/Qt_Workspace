@@ -1,0 +1,14 @@
+-I/usr/include/vtk-5.8
+-I/usr/include/pcl-1.7
+-I/usr/include/eigen3
+-I/usr/include
+-I/usr/include/ni
+-I/usr/include/vtk-5.8
+-I/usr/include/qhull
+-DEIGEN_USE_NEW_STDVECTOR
+-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET
+-DFLANN_STATIC
+-Dqh_QHpointer
+-o
+/home/reza/Qt_Workspace/Authomatic_Edge_Selection/build/moc_mainwindow.cxx
+/home/reza/Qt_Workspace/Authomatic_Edge_Selection/EdgeSelection/mainwindow.h
